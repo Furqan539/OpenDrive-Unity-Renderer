@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDA_OPENDRIVE TO CITY ROAD NETWORK GENERATOR (ENVIRONMENT)", "Assembly-CSharp.csproj", "{30515A13-A699-6A9C-B20D-2D48531875A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDA_OPENDRIVE TO CITY ROAD NETWORK GENERATOR (ENVIRONMENT)", "Assembly-CSharp-Editor.csproj", "{12402A03-0EAB-30E6-E19B-D8E69BC371B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30515A13-A699-6A9C-B20D-2D48531875A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30515A13-A699-6A9C-B20D-2D48531875A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30515A13-A699-6A9C-B20D-2D48531875A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30515A13-A699-6A9C-B20D-2D48531875A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12402A03-0EAB-30E6-E19B-D8E69BC371B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12402A03-0EAB-30E6-E19B-D8E69BC371B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12402A03-0EAB-30E6-E19B-D8E69BC371B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12402A03-0EAB-30E6-E19B-D8E69BC371B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

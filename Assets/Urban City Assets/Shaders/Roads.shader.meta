@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5002f93be6f76ee48b44949a6d2a5750
+timeCreated: 1454365826
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _LinesAlbedo: {fileID: 2800000, guid: f425d33645a8e2c45ae53fcae2216f96, type: 3}
+  - _LinesNormal: {fileID: 2800000, guid: 3f9a9bdcec4801e4d8c86a9d88725256, type: 3}
+  - _RoadAlbedo: {fileID: 2800000, guid: b3a3bc5d48a23f54dacbe2a560d9a2f5, type: 3}
+  - _RoadMetalRough: {fileID: 2800000, guid: 461b023723068ef4ab7d5abfd0f3e8ae, type: 3}
+  - _DetailDiffuse: {fileID: 2800000, guid: 270699af628e91c42b940d8f25289d89, type: 3}
+  - _DetailNormal: {fileID: 2800000, guid: 7164312e9ec8e0448a0f2bafa966a9ed, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

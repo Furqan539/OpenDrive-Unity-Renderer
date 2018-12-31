@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: bf60a04756bd4bf4ca11cc3bbdaa6f1e
+timeCreated: 1485124204
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Badges
+    100002: Body
+    100004: BrakeLights
+    100006: BrakeLights Glass
+    100008: Bump_FR
+    100010: Collider
+    100012: Door
+    100014: //RootNode
+    100016: Exhaust
+    100018: FogLight Glass
+    100020: FrontBump
+    100022: HeadLight Glass
+    100024: HeadLight Lenses
+    100026: HeadLights
+    100028: RearBump
+    100030: ReverseLight Glass
+    100032: SignalLeft Glass
+    100034: SignalLeft Glass_R
+    100036: SignalRight Glass
+    100038: SignalRight Glass_R
+    100040: Wheel_FL
+    100042: Wheel_FR
+    100044: Wheel_RL
+    100046: Wheel_RR
+    100048: Wheels
+    100050: Wiper
+    100052: Wiper 1
+    400000: Badges
+    400002: Body
+    400004: BrakeLights
+    400006: BrakeLights Glass
+    400008: Bump_FR
+    400010: Collider
+    400012: Door
+    400014: //RootNode
+    400016: Exhaust
+    400018: FogLight Glass
+    400020: FrontBump
+    400022: HeadLight Glass
+    400024: HeadLight Lenses
+    400026: HeadLights
+    400028: RearBump
+    400030: ReverseLight Glass
+    400032: SignalLeft Glass
+    400034: SignalLeft Glass_R
+    400036: SignalRight Glass
+    400038: SignalRight Glass_R
+    400040: Wheel_FL
+    400042: Wheel_FR
+    400044: Wheel_RL
+    400046: Wheel_RR
+    400048: Wheels
+    400050: Wiper
+    400052: Wiper 1
+    2300000: Badges
+    2300002: Body
+    2300004: BrakeLights
+    2300006: BrakeLights Glass
+    2300008: Bump_FR
+    2300010: Collider
+    2300012: Door
+    2300014: Exhaust
+    2300016: FogLight Glass
+    2300018: HeadLight Glass
+    2300020: HeadLight Lenses
+    2300022: HeadLights
+    2300024: RearBump
+    2300026: ReverseLight Glass
+    2300028: SignalLeft Glass
+    2300030: SignalLeft Glass_R
+    2300032: SignalRight Glass
+    2300034: SignalRight Glass_R
+    2300036: Wheel_FL
+    2300038: Wheel_FR
+    2300040: Wheel_RL
+    2300042: Wheel_RR
+    2300044: Wiper
+    2300046: Wiper 1
+    3300000: Badges
+    3300002: Body
+    3300004: BrakeLights
+    3300006: BrakeLights Glass
+    3300008: Bump_FR
+    3300010: Collider
+    3300012: Door
+    3300014: Exhaust
+    3300016: FogLight Glass
+    3300018: HeadLight Glass
+    3300020: HeadLight Lenses
+    3300022: HeadLights
+    3300024: RearBump
+    3300026: ReverseLight Glass
+    3300028: SignalLeft Glass
+    3300030: SignalLeft Glass_R
+    3300032: SignalRight Glass
+    3300034: SignalRight Glass_R
+    3300036: Wheel_FL
+    3300038: Wheel_FR
+    3300040: Wheel_RL
+    3300042: Wheel_RR
+    3300044: Wiper
+    3300046: Wiper 1
+    4300000: Body
+    4300002: RearBump
+    4300004: Bump_FR
+    4300006: BrakeLights
+    4300008: HeadLights
+    4300010: Exhaust
+    4300012: Badges
+    4300014: HeadLight Glass
+    4300016: HeadLight Lenses
+    4300018: FogLight Glass
+    4300020: BrakeLights Glass
+    4300022: Door
+    4300024: Wiper
+    4300026: Wiper
+    4300028: Wheel_RR
+    4300030: Wheel_FR
+    4300032: Wheel_RL
+    4300034: Wheel_FL
+    4300036: Collider
+    4300038: ReverseLight Glass
+    4300040: SignalLeft Glass
+    4300042: SignalRight Glass
+    4300044: SignalRight Glass_R
+    4300046: SignalLeft Glass_R
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

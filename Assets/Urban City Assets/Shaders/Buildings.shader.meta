@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0358a3cb7f8d40c44be978efae3a23f3
+timeCreated: 1454365820
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _Albedo: {fileID: 2800000, guid: 0b1ac0b30a0b7d548bbca755e4d5e2c1, type: 3}
+  - _MetalRoughness: {fileID: 2800000, guid: 73a6ca988bc204744a241a426a8573d1, type: 3}
+  - _node_9017: {fileID: 2800000, guid: d455b69c7de8a3a4391f122593cafe0f, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

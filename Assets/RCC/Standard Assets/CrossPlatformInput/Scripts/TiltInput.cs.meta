@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c2d84226fbbaf94e9c1451f1c39b06a
+labels:
+- Not
+- Fully
+- Implemented
+timeCreated: 1508211336
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

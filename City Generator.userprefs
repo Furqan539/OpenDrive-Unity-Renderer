@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Practice Unity WorkSpace\Practice Unity\Assets\NumberWizard\Scripts\NumberWizard.cs">
+    <Files>
+      <File FileName="..\..\..\..\Practice Unity WorkSpace\Practice Unity\Assets\NumberWizard\Scripts\NumberWizard.cs" Line="44" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
